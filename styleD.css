@@ -102,7 +102,7 @@ th {
   .center2{
      position: relative;
      left: 80px;
-      text-align: left;
+     text-align: left;
   }
 
   .box1{
@@ -113,7 +113,7 @@ th {
   }
 
   .box2{
-    font-size: 30px;
+    font-size: 20px;
     color: lightseagreen;
     font-weight: bold;
     width: 1000px;
